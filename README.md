@@ -1,3 +1,3 @@
 # Programming Problems
 
-Programming exercises solved from different online judges: HackerRank, Codeforces.
+Programming exercises solved from different online judges: Codeforces, HackerRank, UVa Online Judge.
