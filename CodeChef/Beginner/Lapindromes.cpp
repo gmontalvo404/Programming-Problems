@@ -1,4 +1,4 @@
-//https://www.codechef.com/submit/LAPIN
+//https://www.codechef.com/problems/LAPIN
 
 #include <bits/stdc++.h>
 using namespace std;
