@@ -1,5 +1,3 @@
-//https://www.codechef.com/problems/FLOW014
-
 #include <bits/stdc++.h>
 using namespace std;
 
